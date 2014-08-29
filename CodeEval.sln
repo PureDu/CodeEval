@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeEval", "CodeEval\CodeEval.csproj", "{3452B99C-F0EB-407A-B137-087109A3539F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PENULTIMATE WORD", "PENULTIMATE WORD\PENULTIMATE WORD.csproj", "{18CBE870-CE71-4B18-8443-E77425D94770}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3452B99C-F0EB-407A-B137-087109A3539F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3452B99C-F0EB-407A-B137-087109A3539F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3452B99C-F0EB-407A-B137-087109A3539F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3452B99C-F0EB-407A-B137-087109A3539F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18CBE870-CE71-4B18-8443-E77425D94770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18CBE870-CE71-4B18-8443-E77425D94770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18CBE870-CE71-4B18-8443-E77425D94770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18CBE870-CE71-4B18-8443-E77425D94770}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
